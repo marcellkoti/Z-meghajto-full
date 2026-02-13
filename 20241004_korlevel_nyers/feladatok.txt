@@ -1,0 +1,12 @@
+Törzsdokumentum formázása 
+ 	Mentés
+Egyesítés dokumentumba
+	Mentés
+Forrás kiegészítése
+	Város
+        Utca
+	Irányítószám
+Boríték készítése
+	Mentés
+Egyesítés 
+	Mentés
